@@ -1,0 +1,24 @@
+_repo: Dictionary-of-Battles-From-the-Earliest-Date-to-the-Present-Time_60156
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harbottle, Thomas Benfield
+    deathdate: 1904
+    gutenberg_agent_id: '49657'
+    url: http://www.gutenberg.org/2009/agents/49657
+description: ''
+gutenberg_issued: '2019-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60156'
+  lccn: 05008755
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Battles'
+- GITenberg
+title: "Dictionary of Battles\r\nFrom the Earliest Date to the Present Time"
+url: http://www.gutenberg.org/ebooks/60156
